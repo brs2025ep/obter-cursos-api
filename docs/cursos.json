@@ -1,0 +1,2060 @@
+[
+  {
+    "ID": "1",
+    "created": "2025-07-29 11:14:00",
+    "name": "Introdução ao desenvolvimento de API",
+    "group": "API"
+  },
+  {
+    "ID": "2",
+    "created": "2025-08-01 17:55:00",
+    "name": "Desenvolvimento de APIs",
+    "group": "API"
+  },
+  {
+    "ID": "3",
+    "created": "2025-08-01 17:59:00",
+    "name": "Boas Práticas Para APIs RESTful",
+    "group": "API"
+  },
+  {
+    "ID": "4",
+    "created": "2023-10-01 02:55:00",
+    "name": "Introdução as APIs com C#",
+    "group": "API"
+  },
+  {
+    "ID": "5",
+    "created": "2023-10-06 16:07:00",
+    "name": "Testes de API: Dos Manuais aos Automatizados",
+    "group": "API"
+  },
+  {
+    "ID": "6",
+    "created": "2024-11-16 15:23:00",
+    "name": "Desenvolvendo APIs e Microsserviços na Claro",
+    "group": "API"
+  },
+  {
+    "ID": "7",
+    "created": "2025-05-06 18:55:00",
+    "name": "Introdução a Computação em Nuvem",
+    "group": "Cloud"
+  },
+  {
+    "ID": "8",
+    "created": "2025-05-06 22:07:00",
+    "name": "Microsoft Azure - Localizando Serviços por Categoria",
+    "group": "Cloud"
+  },
+  {
+    "ID": "9",
+    "created": "2025-05-10 15:53:00",
+    "name": "Benefícios da Computação em Nuvem",
+    "group": "Cloud"
+  },
+  {
+    "ID": "10",
+    "created": "2025-05-10 16:16:00",
+    "name": "Criando máquinas Virtuais na Azure",
+    "group": "Cloud"
+  },
+  {
+    "ID": "11",
+    "created": "2025-05-10 16:27:00",
+    "name": "Tipos de Serviço de Nuvem",
+    "group": "Cloud"
+  },
+  {
+    "ID": "12",
+    "created": "2025-05-10 18:16:00",
+    "name": "Componentes de Arquitetura do Azure",
+    "group": "Cloud"
+  },
+  {
+    "ID": "13",
+    "created": "2025-05-10 19:04:00",
+    "name": "Construindo Arquiteturas no Azure",
+    "group": "Cloud"
+  },
+  {
+    "ID": "14",
+    "created": "2025-05-17 17:46:00",
+    "name": "Computação e Rede na Azure",
+    "group": "Cloud"
+  },
+  {
+    "ID": "15",
+    "created": "2025-05-17 18:27:00",
+    "name": "Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure",
+    "group": "Cloud"
+  },
+  {
+    "ID": "16",
+    "created": "2025-05-17 18:30:00",
+    "name": "Identidade, Acesso e Segurança",
+    "group": "Cloud"
+  },
+  {
+    "ID": "17",
+    "created": "2025-05-17 18:30:00",
+    "name": "Trabalhando com Ambiente Cloud na Azure",
+    "group": "Cloud"
+  },
+  {
+    "ID": "18",
+    "created": "2025-05-17 23:18:00",
+    "name": "Trabalhando com Nuvem Híbrida com Azure Red Hat OpenShift (ARO)",
+    "group": "Cloud"
+  },
+  {
+    "ID": "19",
+    "created": "2025-05-17 23:21:00",
+    "name": "Inteligência de Documentos de IA do Azure",
+    "group": "Cloud"
+  },
+  {
+    "ID": "20",
+    "created": "2025-05-17 23:24:00",
+    "name": "Trabalhando com Serviços Azure OpenAI",
+    "group": "Cloud"
+  },
+  {
+    "ID": "21",
+    "created": "2025-05-17 23:50:00",
+    "name": "Análise de Sentimentos com Language Studio no Azure AI",
+    "group": "Cloud"
+  },
+  {
+    "ID": "22",
+    "created": "2025-05-18 00:33:00",
+    "name": "Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados",
+    "group": "Cloud"
+  },
+  {
+    "ID": "23",
+    "created": "2025-05-18 00:34:00",
+    "name": "Serviços Cloud de Inteligência Artificial",
+    "group": "Cloud"
+  },
+  {
+    "ID": "24",
+    "created": "2025-05-18 00:37:00",
+    "name": "Introdução ao Bootcamp Microsoft 50 Anos: Computação em Nuvem com Azure",
+    "group": "Cloud"
+  },
+  {
+    "ID": "25",
+    "created": "2025-05-18 00:39:00",
+    "name": "Como a Computação em Nuvem Funciona",
+    "group": "Cloud"
+  },
+  {
+    "ID": "26",
+    "created": "2025-05-18 00:49:00",
+    "name": "Fundamentos da Plataforma de Aplicações no Azure",
+    "group": "Cloud"
+  },
+  {
+    "ID": "27",
+    "created": "2025-05-18 00:51:00",
+    "name": "Criando uma Conta Microsoft e Assinatura Azure para Estudos",
+    "group": "Cloud"
+  },
+  {
+    "ID": "28",
+    "created": "2025-05-18 00:57:00",
+    "name": "Construindo Soluções Inteligentes com IA e Azure Cloud",
+    "group": "Cloud"
+  },
+  {
+    "ID": "29",
+    "created": "2025-05-18 00:57:00",
+    "name": "Fundamentos da Computação em Nuvem com Azure",
+    "group": "Cloud"
+  },
+  {
+    "ID": "30",
+    "created": "2025-05-18 00:57:00",
+    "name": "Microsoft 50 Anos - Computação em Nuvem com Azure",
+    "group": "Cloud"
+  },
+  {
+    "ID": "31",
+    "created": "2025-06-03 20:51:00",
+    "name": "Armazenamento de Dados com Docker",
+    "group": "Cloud"
+  },
+  {
+    "ID": "32",
+    "created": "2025-06-03 20:53:00",
+    "name": "Definição e Criação de um Docker File",
+    "group": "Cloud"
+  },
+  {
+    "ID": "33",
+    "created": "2025-06-03 20:54:00",
+    "name": "Trabalhando com Docker Compose",
+    "group": "Cloud"
+  },
+  {
+    "ID": "34",
+    "created": "2025-06-03 21:33:00",
+    "name": "Criando um Container de uma Aplicação WEB",
+    "group": "Cloud"
+  },
+  {
+    "ID": "35",
+    "created": "2025-06-03 21:36:00",
+    "name": "Processamento, Logs e Rede com Docker",
+    "group": "Cloud"
+  },
+  {
+    "ID": "36",
+    "created": "2023-05-29 11:54:00",
+    "name": "Monitoramento e Análise na AWS",
+    "group": "Cloud"
+  },
+  {
+    "ID": "37",
+    "created": "2023-05-29 12:25:00",
+    "name": "Segurança na Nuvem com AWS",
+    "group": "Cloud"
+  },
+  {
+    "ID": "38",
+    "created": "2023-05-29 12:26:00",
+    "name": "AWS Official Content - Introdução à Amazon Web Services (AWS)",
+    "group": "Cloud"
+  },
+  {
+    "ID": "39",
+    "created": "2023-05-29 12:30:00",
+    "name": "Introdução ao Conceito de Cloud",
+    "group": "Cloud"
+  },
+  {
+    "ID": "40",
+    "created": "2023-05-29 12:51:00",
+    "name": "Infraestrutura Global AWS",
+    "group": "Cloud"
+  },
+  {
+    "ID": "41",
+    "created": "2023-05-29 13:05:00",
+    "name": "Preços e Planos de Suporte na AWS",
+    "group": "Cloud"
+  },
+  {
+    "ID": "42",
+    "created": "2023-05-29 13:07:00",
+    "name": "AWS Official Content - Introdução à Computação em Nuvem com AWS",
+    "group": "Cloud"
+  },
+  {
+    "ID": "43",
+    "created": "2023-08-23 06:39:00",
+    "name": "AWS Official Content - Segurança, Monitoramento e Suporte na AWS",
+    "group": "Cloud"
+  },
+  {
+    "ID": "44",
+    "created": "2023-08-23 06:39:00",
+    "name": "Fundamentos da Cloud Computing com AWS",
+    "group": "Cloud"
+  },
+  {
+    "ID": "45",
+    "created": "2023-09-02 09:40:00",
+    "name": "Descubra a Nuvem",
+    "group": "Cloud"
+  },
+  {
+    "ID": "46",
+    "created": "2023-09-02 11:04:00",
+    "name": "Conhecendo os Serviços da AWS",
+    "group": "Cloud"
+  },
+  {
+    "ID": "47",
+    "created": "2023-09-02 11:07:00",
+    "name": "Talento Cloud PRO",
+    "group": "Cloud"
+  },
+  {
+    "ID": "48",
+    "created": "2023-09-02 11:08:00",
+    "name": "Primeiros Passos com a Nuvem AWS | Nexa e AWS",
+    "group": "Cloud"
+  },
+  {
+    "ID": "49",
+    "created": "2023-09-02 13:06:00",
+    "name": "Descubra a Nuvem AWS - Nexa Resources",
+    "group": "Cloud"
+  },
+  {
+    "ID": "50",
+    "created": "2023-09-02 15:54:00",
+    "name": "Criando sua Conta na AWS",
+    "group": "Cloud"
+  },
+  {
+    "ID": "51",
+    "created": "2023-09-02 15:56:00",
+    "name": "Fundamentos de Computação em Nuvem na AWS",
+    "group": "Cloud"
+  },
+  {
+    "ID": "52",
+    "created": "2023-09-02 16:02:00",
+    "name": "Descubra a Nuvem AWS – LocalizaLabs",
+    "group": "Cloud"
+  },
+  {
+    "ID": "53",
+    "created": "2023-09-18 10:04:00",
+    "name": "Introdução a orquestração de contêineres com Docker",
+    "group": "Cloud"
+  },
+  {
+    "ID": "54",
+    "created": "2023-10-01 03:09:00",
+    "name": "Conhecendo e Instalando o Docker",
+    "group": "Cloud"
+  },
+  {
+    "ID": "55",
+    "created": "2023-10-02 09:48:00",
+    "name": "Primeiros Passos com o Docker",
+    "group": "Cloud"
+  },
+  {
+    "ID": "56",
+    "created": "2024-11-16 15:23:00",
+    "name": "O Mundo Devops na Claro",
+    "group": "Cloud"
+  },
+  {
+    "ID": "57",
+    "created": "2025-06-03 22:31:00",
+    "name": "Introdução a Kubernetes e Orquestração de Contêineres.",
+    "group": "Cloud"
+  },
+  {
+    "ID": "58",
+    "created": "2025-06-03 22:31:00",
+    "name": "Criando Contêineres com Docker",
+    "group": "Cloud"
+  },
+  {
+    "ID": "59",
+    "created": "2025-06-03 22:38:00",
+    "name": "Computação em AWS",
+    "group": "Cloud"
+  },
+  {
+    "ID": "60",
+    "created": "2025-08-01 23:07:00",
+    "name": "Ambiente de Desenvolvimento Kubernetes",
+    "group": "Cloud"
+  },
+  {
+    "ID": "61",
+    "created": "2025-08-02 09:52:00",
+    "name": "Conceitos Básicos Sobre Pods em Kubernetes",
+    "group": "Cloud"
+  },
+  {
+    "ID": "62",
+    "created": "2025-08-02 14:34:00",
+    "name": "Criando um Deploy de uma Aplicação",
+    "group": "Cloud"
+  },
+  {
+    "ID": "63",
+    "created": "2025-08-02 14:34:00",
+    "name": "Processos Devops",
+    "group": "Cloud"
+  },
+  {
+    "ID": "64",
+    "created": "2022-04-10 15:44:00",
+    "name": "Pensamento Computacional",
+    "group": "Computacao"
+  },
+  {
+    "ID": "65",
+    "created": "2022-07-24 06:14:00",
+    "name": "Principais Protocolos de Comunicação da Internet",
+    "group": "Computacao"
+  },
+  {
+    "ID": "66",
+    "created": "2023-09-28 15:34:00",
+    "name": "Introdução Ao Mundo Dos Objetos",
+    "group": "Computacao"
+  },
+  {
+    "ID": "67",
+    "created": "2023-09-28 15:38:00",
+    "name": "O Que São Classes e Objetos",
+    "group": "Computacao"
+  },
+  {
+    "ID": "68",
+    "created": "2023-09-28 15:40:00",
+    "name": "Estrutura de Dados JSON",
+    "group": "Computacao"
+  },
+  {
+    "ID": "69",
+    "created": "2023-09-18 13:28:00",
+    "name": "Redes TCP/IP e a Internet",
+    "group": "Computacao"
+  },
+  {
+    "ID": "70",
+    "created": "2023-09-25 12:09:00",
+    "name": "Entendendo Comunicação Client x Server",
+    "group": "Computacao"
+  },
+  {
+    "ID": "71",
+    "created": "2023-09-28 18:27:00",
+    "name": "Estruturas de Dados e Objetos",
+    "group": "Computacao"
+  },
+  {
+    "ID": "72",
+    "created": "2025-01-06 21:27:00",
+    "name": "Explorando Queries com SQL",
+    "group": "DBA"
+  },
+  {
+    "ID": "73",
+    "created": "2025-01-06 21:31:00",
+    "name": "Criando Queries com Funções e Cláusulas de Agrupamentos",
+    "group": "DBA"
+  },
+  {
+    "ID": "74",
+    "created": "2025-01-09 13:47:00",
+    "name": "Agrupando Registros e Tabelas com Join Statement",
+    "group": "DBA"
+  },
+  {
+    "ID": "75",
+    "created": "2025-05-06 15:44:00",
+    "name": "Integração com Banco de Dados",
+    "group": "DBA"
+  },
+  {
+    "ID": "76",
+    "created": "2025-05-10 16:37:00",
+    "name": "Configurando uma instância de Banco de Dados na Azure",
+    "group": "DBA"
+  },
+  {
+    "ID": "77",
+    "created": "2022-06-20 04:50:00",
+    "name": "MySQL - Trabalhando com suas Primeiras Tabelas",
+    "group": "DBA"
+  },
+  {
+    "ID": "78",
+    "created": "2022-06-20 05:06:00",
+    "name": "MySQL - Consultas com Join",
+    "group": "DBA"
+  },
+  {
+    "ID": "79",
+    "created": "2022-07-21 10:08:00",
+    "name": "Trabalhando com Banco de Dados utilizando JDBC e JPA",
+    "group": "DBA"
+  },
+  {
+    "ID": "80",
+    "created": "2023-08-15 19:20:00",
+    "name": "Introdução a Banco de Dados Relacionais (SQL)",
+    "group": "DBA"
+  },
+  {
+    "ID": "81",
+    "created": "2023-08-20 23:25:00",
+    "name": "AWS Official Content - Armazenamento e Banco de Dados na AWS",
+    "group": "DBA"
+  },
+  {
+    "ID": "82",
+    "created": "2023-08-21 13:50:00",
+    "name": "Introdução a Banco de Dados NoSQL",
+    "group": "DBA"
+  },
+  {
+    "ID": "83",
+    "created": "2023-08-21 13:50:00",
+    "name": "Bancos de Dados SQL e NoSQL Para Devs",
+    "group": "DBA"
+  },
+  {
+    "ID": "84",
+    "created": "2023-09-30 19:41:00",
+    "name": "Introdução Banco de Dados",
+    "group": "DBA"
+  },
+  {
+    "ID": "85",
+    "created": "2023-09-30 20:00:00",
+    "name": "SQL SERVER - Dominando Tabelas e Tipos de Dados",
+    "group": "DBA"
+  },
+  {
+    "ID": "86",
+    "created": "2023-10-01 00:47:00",
+    "name": "SQL SERVER - Manipulando Dados",
+    "group": "DBA"
+  },
+  {
+    "ID": "87",
+    "created": "2023-10-01 03:03:00",
+    "name": "Montando Consultas Relacionais no SQL Server",
+    "group": "DBA"
+  },
+  {
+    "ID": "88",
+    "created": "2024-11-14 16:53:00",
+    "name": "Introdução ao MongoDB e Bancos de Dados NoSQL",
+    "group": "DBA"
+  },
+  {
+    "ID": "89",
+    "created": "2024-11-14 16:53:00",
+    "name": "Banco de Dados SQL e NoSQL Para Desenvolvedores Back-end",
+    "group": "DBA"
+  },
+  {
+    "ID": "90",
+    "created": "2024-11-18 11:23:00",
+    "name": "Introdução a Banco de Dados",
+    "group": "DBA"
+  },
+  {
+    "ID": "91",
+    "created": "2024-11-18 12:10:00",
+    "name": "Sistemas de Gerenciamento de Banco de Dados",
+    "group": "DBA"
+  },
+  {
+    "ID": "92",
+    "created": "2024-11-19 08:24:00",
+    "name": "Como Escrever Consultas Otimizadas no SQL",
+    "group": "DBA"
+  },
+  {
+    "ID": "93",
+    "created": "2024-11-21 10:17:00",
+    "name": "Modelagem de Dados para Banco de Dados",
+    "group": "DBA"
+  },
+  {
+    "ID": "94",
+    "created": "2024-11-21 11:39:00",
+    "name": "Arquitetura de Banco de Dados",
+    "group": "DBA"
+  },
+  {
+    "ID": "95",
+    "created": "2024-11-21 11:39:00",
+    "name": "Introdução a Banco de Dados Relacionais",
+    "group": "DBA"
+  },
+  {
+    "ID": "96",
+    "created": "2024-11-21 22:01:00",
+    "name": "Fundamentos de Modelagem e Projeto de Banco de Dados",
+    "group": "DBA"
+  },
+  {
+    "ID": "97",
+    "created": "2024-11-22 08:04:00",
+    "name": "Modelo de Entidade Relacionamento com Banco de Dados",
+    "group": "DBA"
+  },
+  {
+    "ID": "98",
+    "created": "2024-11-23 10:53:00",
+    "name": "Modelo Relacionamento de Entidade Aprimorado com Banco de Dados",
+    "group": "DBA"
+  },
+  {
+    "ID": "99",
+    "created": "2024-11-24 22:26:00",
+    "name": "Construindo um Esquema Conceitual para Banco De dados",
+    "group": "DBA"
+  },
+  {
+    "ID": "100",
+    "created": "2024-12-03 11:18:00",
+    "name": "Modelo Relacional e Mapeamento Relacional com Banco de Dados",
+    "group": "DBA"
+  },
+  {
+    "ID": "101",
+    "created": "2024-12-03 11:18:00",
+    "name": "Sistemas Relacionais em Banco de Dados",
+    "group": "DBA"
+  },
+  {
+    "ID": "102",
+    "created": "2025-02-05 17:26:00",
+    "name": "Princípios de Desenvolvimento De Aplicações",
+    "group": "Fundamentos e Boas Práticas de Desenvolvimento de Software"
+  },
+  {
+    "ID": "103",
+    "created": "2023-05-29 11:36:00",
+    "name": "Introdução ao Desenvolvimento Moderno de Software",
+    "group": "Fundamentos e Boas Práticas de Desenvolvimento de Software"
+  },
+  {
+    "ID": "104",
+    "created": "2023-08-20 14:55:00",
+    "name": "Princípios Desenvolvimento de Software",
+    "group": "Fundamentos e Boas Práticas de Desenvolvimento de Software"
+  },
+  {
+    "ID": "105",
+    "created": "2023-08-21 14:21:00",
+    "name": "Desmistificando Microsserviços, BFF e DDD",
+    "group": "Fundamentos e Boas Práticas de Desenvolvimento de Software"
+  },
+  {
+    "ID": "106",
+    "created": "2023-09-13 15:48:00",
+    "name": "Fundamentos de Arquitetura de Sistemas",
+    "group": "Fundamentos e Boas Práticas de Desenvolvimento de Software"
+  },
+  {
+    "ID": "107",
+    "created": "2024-04-26 11:07:00",
+    "name": "Princípios de Desenvolvimento de Software Colaborativo",
+    "group": "Fundamentos e Boas Práticas de Desenvolvimento de Software"
+  },
+  {
+    "ID": "108",
+    "created": "2025-08-01 18:03:00",
+    "name": "Introdução a Clean Code",
+    "group": "Fundamentos e Boas Práticas de Desenvolvimento de Software"
+  },
+  {
+    "ID": "109",
+    "created": "2025-08-01 18:13:00",
+    "name": "Boas Práticas de Desenvolvimento de Software",
+    "group": "Fundamentos e Boas Práticas de Desenvolvimento de Software"
+  },
+  {
+    "ID": "110",
+    "created": "2022-04-15 01:12:00",
+    "name": "Introdução ao Git e ao GitHub",
+    "group": "Git"
+  },
+  {
+    "ID": "111",
+    "created": "2023-08-08 16:52:00",
+    "name": "Versionamento de Código com Git e GitHub",
+    "group": "Git"
+  },
+  {
+    "ID": "112",
+    "created": "2025-05-17 22:43:00",
+    "name": "Conceitos Fundamentais de IA",
+    "group": "IA"
+  },
+  {
+    "ID": "113",
+    "created": "2025-05-17 23:17:00",
+    "name": "Conceitos de Processamento de Linguagem Natural",
+    "group": "IA"
+  },
+  {
+    "ID": "114",
+    "created": "2025-05-18 00:15:00",
+    "name": "Explorando os Recursos de IA Generativa com Copilot e OpenAI",
+    "group": "IA"
+  },
+  {
+    "ID": "115",
+    "created": "2025-05-18 01:25:00",
+    "name": "Introdução ao Bootcamp Microsoft 50 Anos: Prompts Inteligentes",
+    "group": "IA"
+  },
+  {
+    "ID": "116",
+    "created": "2025-05-20 17:24:00",
+    "name": "Introdução à Engenharia de Prompts",
+    "group": "IA"
+  },
+  {
+    "ID": "117",
+    "created": "2025-05-21 16:26:00",
+    "name": "Técnicas de Engenharia de Prompt",
+    "group": "IA"
+  },
+  {
+    "ID": "118",
+    "created": "2025-05-21 16:34:00",
+    "name": "Escrevendo Prompts Eficazes",
+    "group": "IA"
+  },
+  {
+    "ID": "119",
+    "created": "2025-05-21 18:13:00",
+    "name": "Criando um Podcast com IAs Generativas",
+    "group": "IA"
+  },
+  {
+    "ID": "120",
+    "created": "2025-05-21 18:17:00",
+    "name": "Fundamentos da Engenharia de Prompts",
+    "group": "IA"
+  },
+  {
+    "ID": "121",
+    "created": "2022-05-27 03:07:00",
+    "name": "Introdução à Programação e Pensamento Computacional",
+    "group": "IA"
+  },
+  {
+    "ID": "122",
+    "created": "2025-05-21 18:17:00",
+    "name": "Microsoft 50 Anos - Prompts Inteligentes",
+    "group": "IA"
+  },
+  {
+    "ID": "123",
+    "created": "2023-08-20 23:54:00",
+    "name": "Programação Assistida por IA com Amazon CodeWhisperer",
+    "group": "IA"
+  },
+  {
+    "ID": "124",
+    "created": "2023-08-22 22:34:00",
+    "name": "Explorando IA Generativa com Amazon CodeWhisperer",
+    "group": "IA"
+  },
+  {
+    "ID": "125",
+    "created": "2024-11-16 15:23:00",
+    "name": "Criando Aplicações de IA com Agentes Autônomos",
+    "group": "IA"
+  },
+  {
+    "ID": "126",
+    "created": "2024-11-17 06:05:00",
+    "name": "Coding The Future CAIXA - Introdução a IA Generativa com Microsoft Copilot",
+    "group": "IA"
+  },
+  {
+    "ID": "127",
+    "created": "2024-11-17 06:34:00",
+    "name": "Introdução à Inteligência Artificial",
+    "group": "IA"
+  },
+  {
+    "ID": "128",
+    "created": "2024-11-17 07:39:00",
+    "name": "Aplicações e Impacto da IA no Mundo Atual",
+    "group": "IA"
+  },
+  {
+    "ID": "129",
+    "created": "2024-11-17 08:01:00",
+    "name": "Live de Lançamento: Como a CAIXA Está utilizando IA para transformar o Mercado",
+    "group": "IA"
+  },
+  {
+    "ID": "130",
+    "created": "2024-11-17 08:01:00",
+    "name": "Fundamentos de Inteligência Artificial (IA)",
+    "group": "IA"
+  },
+  {
+    "ID": "131",
+    "created": "2024-11-17 11:21:00",
+    "name": "Aplicações Práticas da Inteligência Artificial",
+    "group": "IA"
+  },
+  {
+    "ID": "132",
+    "created": "2024-11-17 12:35:00",
+    "name": "Fundamentos da IA Generativa",
+    "group": "IA"
+  },
+  {
+    "ID": "133",
+    "created": "2024-11-17 13:37:00",
+    "name": "O que são IAs Generativas",
+    "group": "IA"
+  },
+  {
+    "ID": "134",
+    "created": "2024-11-18 07:35:00",
+    "name": "Algoritmos e Aprendizado de Máquina",
+    "group": "IA"
+  },
+  {
+    "ID": "135",
+    "created": "2024-11-18 08:52:00",
+    "name": "Processamento de Linguagem Natural",
+    "group": "IA"
+  },
+  {
+    "ID": "136",
+    "created": "2024-11-18 09:10:00",
+    "name": "Visão Computacional",
+    "group": "IA"
+  },
+  {
+    "ID": "137",
+    "created": "2025-07-28 21:37:00",
+    "name": "Bases de Prompt Engineering para o GitHub Copilot",
+    "group": "IA"
+  },
+  {
+    "ID": "138",
+    "created": "2025-07-29 08:38:00",
+    "name": "Criando um Ebook com ChatGPT & MidJourney",
+    "group": "IA"
+  },
+  {
+    "ID": "139",
+    "created": "2025-07-29 10:33:00",
+    "name": "Introdução a Engenharia de Prompts",
+    "group": "IA"
+  },
+  {
+    "ID": "140",
+    "created": "2023-03-30 23:51:00",
+    "name": "Eletrônica Básica para Prototipação com Microcontroladores",
+    "group": "IOT"
+  },
+  {
+    "ID": "141",
+    "created": "2023-09-12 21:11:00",
+    "name": "Modelos de IoT",
+    "group": "IOT"
+  },
+  {
+    "ID": "142",
+    "created": "2023-09-12 21:14:00",
+    "name": "Introdução para IoT em um mundo conectado",
+    "group": "IOT"
+  },
+  {
+    "ID": "143",
+    "created": "2023-09-13 06:19:00",
+    "name": "Aplicações de IoT na atualidade",
+    "group": "IOT"
+  },
+  {
+    "ID": "144",
+    "created": "2023-09-13 06:19:00",
+    "name": "Materiais Complementares - Introdução à Internet das Coisas (IoT) e suas Aplicações",
+    "group": "IOT"
+  },
+  {
+    "ID": "145",
+    "created": "2023-09-13 06:23:00",
+    "name": "Cidades Inteligentes",
+    "group": "IOT"
+  },
+  {
+    "ID": "146",
+    "created": "2023-09-13 06:23:00",
+    "name": "Introdução à Internet das Coisas (IoT) e suas Aplicações",
+    "group": "IOT"
+  },
+  {
+    "ID": "147",
+    "created": "2023-09-13 12:00:00",
+    "name": "Protocolos de Comunicação para IoT",
+    "group": "IOT"
+  },
+  {
+    "ID": "148",
+    "created": "2023-09-17 18:07:00",
+    "name": "Materiais Complementares - Protocolos de Comunicação e Segurança para IoT",
+    "group": "IOT"
+  },
+  {
+    "ID": "149",
+    "created": "2023-09-18 13:05:00",
+    "name": "Plataformas de Prototipação para Internet das Coisas",
+    "group": "IOT"
+  },
+  {
+    "ID": "150",
+    "created": "2023-09-18 13:06:00",
+    "name": "Materiais Complementares - Princípios de Eletrônica para IoT",
+    "group": "IOT"
+  },
+  {
+    "ID": "151",
+    "created": "2023-09-18 13:22:00",
+    "name": "Segurança de Redes para IoT",
+    "group": "IOT"
+  },
+  {
+    "ID": "152",
+    "created": "2023-09-18 13:28:00",
+    "name": "Protocolos de Comunicação e Segurança para IoT",
+    "group": "IOT"
+  },
+  {
+    "ID": "153",
+    "created": "2023-09-18 13:29:00",
+    "name": "Avalie a Formação IoT Specialist",
+    "group": "IOT"
+  },
+  {
+    "ID": "154",
+    "created": "2023-09-18 13:29:00",
+    "name": "Materiais Complementares - Computação Móvel Aplicada à IoT",
+    "group": "IOT"
+  },
+  {
+    "ID": "155",
+    "created": "2023-09-19 16:37:00",
+    "name": "Materiais Complementares - Inteligência Artificial aplicada para Sistemas de IoT",
+    "group": "IOT"
+  },
+  {
+    "ID": "156",
+    "created": "2023-09-20 14:37:00",
+    "name": "Sistemas Embarcados Críticos",
+    "group": "IOT"
+  },
+  {
+    "ID": "157",
+    "created": "2023-09-20 20:24:00",
+    "name": "Princípios de Eletrônica para IoT",
+    "group": "IOT"
+  },
+  {
+    "ID": "158",
+    "created": "2023-09-20 20:51:00",
+    "name": "Tipos de Sensores Aplicados para IoT",
+    "group": "IOT"
+  },
+  {
+    "ID": "159",
+    "created": "2023-09-20 20:53:00",
+    "name": "Materiais Complementares - Sensores Inteligentes para IoT",
+    "group": "IOT"
+  },
+  {
+    "ID": "160",
+    "created": "2023-09-21 16:48:00",
+    "name": "Algoritmos para Sensoriamento em IoT",
+    "group": "IOT"
+  },
+  {
+    "ID": "161",
+    "created": "2025-02-03 22:23:00",
+    "name": "Introdução ao Java Cloud Native com o Bradesco",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "162",
+    "created": "2025-02-05 17:26:00",
+    "name": "Live de Lançamento: Bradesco - Java Cloud Native",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "163",
+    "created": "2025-02-05 17:28:00",
+    "name": "Java e a Arte da Abstração com Classes e Encapsulamento",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "164",
+    "created": "2025-02-05 17:43:00",
+    "name": "Herança e Polimorfismo em Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "165",
+    "created": "2025-02-05 17:56:00",
+    "name": "Dominando Interfaces e Lambda em Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "166",
+    "created": "2025-05-06 11:19:00",
+    "name": "Criando um Jogo do Sudoku em Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "167",
+    "created": "2025-05-06 13:38:00",
+    "name": "Programação Orientada a Objetos",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "168",
+    "created": "2025-05-06 14:48:00",
+    "name": "JDBC: Explorando Persistência de Dados com Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "169",
+    "created": "2025-05-06 15:44:00",
+    "name": "Criando seu Board de Tarefas com Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "170",
+    "created": "2025-05-18 00:34:00",
+    "name": "Bradesco - Java Cloud Native",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "171",
+    "created": "2022-05-09 21:12:00",
+    "name": "Variáveis, Tipos de Dados e Operadores Matemáticos em Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "172",
+    "created": "2022-05-10 06:40:00",
+    "name": "Dominando IDEs Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "173",
+    "created": "2022-05-10 08:54:00",
+    "name": "Introdução ao Ecossistema e Documentação Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "174",
+    "created": "2022-05-10 09:18:00",
+    "name": "Lógica Condicional e Controle de Fluxos em Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "175",
+    "created": "2022-05-14 06:36:00",
+    "name": "Entendendo Métodos Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "176",
+    "created": "2022-05-16 08:37:00",
+    "name": "Estruturas de Repetição e Arrays em Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "177",
+    "created": "2022-05-17 22:27:00",
+    "name": "Debugging Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "178",
+    "created": "2022-05-19 03:01:00",
+    "name": "Introdução ao framework Spring Boot",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "179",
+    "created": "2022-05-22 06:13:00",
+    "name": "Tratamento de Exceções em Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "180",
+    "created": "2022-05-22 07:39:00",
+    "name": "Simplificando Projetos Java com o Spring Boot",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "181",
+    "created": "2022-05-22 13:08:00",
+    "name": "Imersão no Spring Framework com Spring Boot",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "182",
+    "created": "2022-05-23 23:15:00",
+    "name": "Conhecendo Spring Data JPA na prática com Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "183",
+    "created": "2022-06-20 18:19:00",
+    "name": "Módulo VI - JAVA",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "184",
+    "created": "2022-06-20 21:06:00",
+    "name": "Estruturas de Dados em Java: Principais Implementações",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "185",
+    "created": "2022-06-23 07:29:00",
+    "name": "Módulo 0 - Prepare-se para a Jornada",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "186",
+    "created": "2022-06-23 14:21:00",
+    "name": "Módulo IV - JAVA",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "187",
+    "created": "2022-06-23 14:21:00",
+    "name": "Criando um Banco Digital com Java e Orientação a Objetos",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "188",
+    "created": "2022-07-21 09:44:00",
+    "name": "Trabalhando com Collections Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "189",
+    "created": "2022-07-21 10:14:00",
+    "name": "JPA com Hibernate",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "190",
+    "created": "2022-07-24 05:19:00",
+    "name": "Testes Unitários Com JUnit",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "191",
+    "created": "2022-07-24 05:43:00",
+    "name": "Adicionando Segurança a uma API REST com Spring Security",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "192",
+    "created": "2022-07-24 23:57:00",
+    "name": "Design Patterns com Java: Dos Clássicos (GoF) ao Spring Framework",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "193",
+    "created": "2023-08-15 19:13:00",
+    "name": "Fundamentos da Programação Orientada a Objetos com Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "194",
+    "created": "2023-08-15 21:42:00",
+    "name": "Pilares da Programação Orientada a Objetos em Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "195",
+    "created": "2023-08-16 02:19:00",
+    "name": "Criando uma API REST Documentada com Spring Web e Swagger",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "196",
+    "created": "2023-08-21 10:17:00",
+    "name": "Ganhando Produtividade com Stream API",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "197",
+    "created": "2023-08-22 21:56:00",
+    "name": "Orientação a Objetos e APIs Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "198",
+    "created": "2023-08-22 22:34:00",
+    "name": "Gerenciamento de Dependências e Build em Java com Maven",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "199",
+    "created": "2023-08-22 22:34:00",
+    "name": "Ganhando Produtividade com Spring Boot",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "200",
+    "created": "2023-08-23 06:39:00",
+    "name": "Desenvolvimento Java com Cloud AWS",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "201",
+    "created": "2023-08-23 07:12:00",
+    "name": "Conhecendo o Kotlin e Sua Documentação Oficial",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "202",
+    "created": "2023-08-24 06:40:00",
+    "name": "Introdução Prática à Linguagem de Programação Kotlin",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "203",
+    "created": "2023-08-24 07:56:00",
+    "name": "Estruturas de Controle de Fluxo e Coleções em Kotlin",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "204",
+    "created": "2023-08-24 09:07:00",
+    "name": "Orientação a Objetos e Tipos de Classes na Prática com Kotlin",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "205",
+    "created": "2023-08-25 04:18:00",
+    "name": "O Poder das Funções em Kotlin",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "206",
+    "created": "2023-08-25 17:50:00",
+    "name": "Tratamento de Exceções em Kotlin",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "207",
+    "created": "2023-08-25 17:58:00",
+    "name": "Contextualizando o Desenvolvimento Web com Spring Boot 3",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "208",
+    "created": "2023-08-25 21:14:00",
+    "name": "Criando uma Api Rest com Kotlin e Persistência de Dados",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "209",
+    "created": "2023-08-26 01:17:00",
+    "name": "Documentando e Testando sua API Rest com Kotlin",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "210",
+    "created": "2023-08-26 01:17:00",
+    "name": "Modernizando seu Backend com Kotlin e Spring Boot",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "211",
+    "created": "2023-08-27 01:34:00",
+    "name": "Abstraindo Formações da DIO Usando Orientação a Objetos com Kotlin",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "212",
+    "created": "2023-08-27 01:34:00",
+    "name": "Desmitificando Kotlin para Programadores Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "213",
+    "created": "2023-08-27 01:34:00",
+    "name": "Conhecendo a Linguagem de Programação Kotlin",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "214",
+    "created": "2023-08-27 06:59:00",
+    "name": "Explorando Padrões de Projetos Na Prática com Kotlin",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "215",
+    "created": "2023-08-27 13:11:00",
+    "name": "Arquitetura Orientada a Eventos com Java, Spring Boot e Kafka",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "216",
+    "created": "2023-08-27 13:11:00",
+    "name": "Ganhando Produtividade com Java e Spring Boot",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "217",
+    "created": "2023-08-28 21:17:00",
+    "name": "Noções Básicas de Rede em Apps Android com Kotlin",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "218",
+    "created": "2023-08-29 21:31:00",
+    "name": "Armazenamento de Dados Essencial em Apps Android com Kotlin",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "219",
+    "created": "2023-08-30 10:27:00",
+    "name": "Introdução ao Desenvolvimento Mobile com Kotlin",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "220",
+    "created": "2023-08-31 17:32:00",
+    "name": "Criando um Aplicativo Kotlin para acompanhar a Copa",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "221",
+    "created": "2023-08-31 17:33:00",
+    "name": "Santander Bootcamp 2023 -  Mobile Android com Kotlin",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "222",
+    "created": "2023-09-01 17:50:00",
+    "name": "Code Update TQI - Backend com Kotlin e Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "223",
+    "created": "2023-09-13 16:07:00",
+    "name": "Desenvolvimento básico em Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "224",
+    "created": "2023-09-17 14:05:00",
+    "name": "Implementando Collections e Streams com Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "225",
+    "created": "2025-07-29 11:00:00",
+    "name": "Estruturas de Controle em Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "226",
+    "created": "2025-07-29 11:40:00",
+    "name": "Sintaxe Básica de Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "227",
+    "created": "2025-07-30 19:03:00",
+    "name": "Praticando com Collections e Outras Classes Úteis do Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "228",
+    "created": "2025-07-30 19:03:00",
+    "name": "Programação Orientada a Objetos e Estruturas de Dados com Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "229",
+    "created": "2025-08-01 08:45:00",
+    "name": "Debugging e o Tratamento de Exceções em Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "230",
+    "created": "2025-08-01 08:58:00",
+    "name": "Simplificando I/O de Arquivos e Diretórios com Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "231",
+    "created": "2025-08-01 09:03:00",
+    "name": "Gerenciando Dependências com Maven e Gradle",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "232",
+    "created": "2025-08-01 09:03:00",
+    "name": "Gerenciando Exceções, IO e Dependências em Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "233",
+    "created": "2025-08-01 10:27:00",
+    "name": "Coleções e Stream em Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "234",
+    "created": "2024-02-19 11:29:00",
+    "name": "Preparando seu Ambiente de Desenvolvimento Kotlin com IntelliJ",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "235",
+    "created": "2024-02-19 11:29:00",
+    "name": "Kotlin no Backend com Spring Boot 3",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "236",
+    "created": "2024-07-28 15:37:00",
+    "name": "Introdução à Plataforma Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "237",
+    "created": "2024-07-28 15:42:00",
+    "name": "Ambiente de Desenvolvimento Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "238",
+    "created": "2024-09-05 04:12:00",
+    "name": "Introdução ao Ambiente Java e Projetos Colaborativos",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "239",
+    "created": "2024-11-13 09:38:00",
+    "name": "Aprendendo a Sintaxe Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "240",
+    "created": "2024-11-13 14:31:00",
+    "name": "Estruturas de Repetição em Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "241",
+    "created": "2024-11-13 14:36:00",
+    "name": "Introdução e Estruturas Condicionais com Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "242",
+    "created": "2024-11-13 14:41:00",
+    "name": "Java e Tratamento de Exceções",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "243",
+    "created": "2024-11-13 22:11:00",
+    "name": "Sintaxe Básica com Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "244",
+    "created": "2024-11-14 16:42:00",
+    "name": "Programação Orientada a Objetos com Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "245",
+    "created": "2024-11-14 16:42:00",
+    "name": "Abstraindo um Bootcamp Usando Orientação a Objetos em Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "246",
+    "created": "2024-11-14 17:05:00",
+    "name": "Testes e Gerenciamento de Dependências em Projetos Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "247",
+    "created": "2024-11-16 15:22:00",
+    "name": "Ganhando Produtividade no Java com Spring Framework",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "248",
+    "created": "2024-11-16 15:22:00",
+    "name": "Publicando Sua API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "249",
+    "created": "2024-11-16 15:24:00",
+    "name": "Arquiteturas Escaláveis com Java na AWS",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "250",
+    "created": "2024-11-16 15:29:00",
+    "name": "Claro - Java com Spring Boot",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "251",
+    "created": "2025-07-19 12:19:00",
+    "name": "Introdução a Experiência TONNIE - Java and AI in Europe",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "252",
+    "created": "2025-07-29 10:45:00",
+    "name": "Introdução ao Java e seu Ambiente de Desenvolvimento",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "253",
+    "created": "2025-07-29 10:45:00",
+    "name": "Princípios de Desenvolvimento De Aplicações Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "254",
+    "created": "2025-07-29 10:50:00",
+    "name": "Fundamentos da Linguagem de Programação Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "255",
+    "created": "2025-08-01 18:02:00",
+    "name": "Trabalhando com Design Patterns em Aplicações Java",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "256",
+    "created": "2025-08-01 18:08:00",
+    "name": "SOLID e Clean Code em Java: Escrevendo Código de Alta Qualidade",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "257",
+    "created": "2025-08-01 18:13:00",
+    "name": "Annotations em Java: Marcando o Seu Código de Maneira Inteligente",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "258",
+    "created": "2025-08-02 14:34:00",
+    "name": "TONNIE - Java and AI in Europe",
+    "group": "JavaKotlin"
+  },
+  {
+    "ID": "259",
+    "created": "2022-04-18 08:35:00",
+    "name": "Mapas e Conjuntos com JavaScript",
+    "group": "JavaScriptTypeScript"
+  },
+  {
+    "ID": "260",
+    "created": "2022-04-18 09:08:00",
+    "name": "Debugging e Error Handling com JavaScript",
+    "group": "JavaScriptTypeScript"
+  },
+  {
+    "ID": "261",
+    "created": "2022-04-18 09:30:00",
+    "name": "Fundamentos de JavaScript Assíncrono",
+    "group": "JavaScriptTypeScript"
+  },
+  {
+    "ID": "262",
+    "created": "2022-04-20 21:01:00",
+    "name": "Manipulando a D.O.M. com JavaScript",
+    "group": "JavaScriptTypeScript"
+  },
+  {
+    "ID": "263",
+    "created": "2022-04-22 22:54:00",
+    "name": "Map, Filter e Reduce",
+    "group": "JavaScriptTypeScript"
+  },
+  {
+    "ID": "264",
+    "created": "2022-04-22 23:12:00",
+    "name": "Orientação a Objetos com JavaScript",
+    "group": "JavaScriptTypeScript"
+  },
+  {
+    "ID": "265",
+    "created": "2022-04-22 23:17:00",
+    "name": "Resolvendo Desafios de Código em Javascript",
+    "group": "JavaScriptTypeScript"
+  },
+  {
+    "ID": "266",
+    "created": "2022-05-27 05:46:00",
+    "name": "Introdução ao JavaScript",
+    "group": "JavaScriptTypeScript"
+  },
+  {
+    "ID": "267",
+    "created": "2022-05-27 09:55:00",
+    "name": "Sintaxe Básica em JavaScript",
+    "group": "JavaScriptTypeScript"
+  },
+  {
+    "ID": "268",
+    "created": "2022-05-29 03:35:00",
+    "name": "Dominando Funções em JavaScript",
+    "group": "JavaScriptTypeScript"
+  },
+  {
+    "ID": "269",
+    "created": "2022-05-29 03:49:00",
+    "name": "Sintaxe e Operadores JavaScript",
+    "group": "JavaScriptTypeScript"
+  },
+  {
+    "ID": "270",
+    "created": "2022-05-29 04:01:00",
+    "name": "Variáveis e Tipos com JavaScript",
+    "group": "JavaScriptTypeScript"
+  },
+  {
+    "ID": "271",
+    "created": "2022-06-15 14:21:00",
+    "name": "Trabalhando com Módulos em JavaScript",
+    "group": "JavaScriptTypeScript"
+  },
+  {
+    "ID": "272",
+    "created": "2023-09-25 14:02:00",
+    "name": "Primeiros Passos Com JavaScript",
+    "group": "JavaScriptTypeScript"
+  },
+  {
+    "ID": "273",
+    "created": "2023-09-26 12:15:00",
+    "name": "Conhecendo Funções JavaScript",
+    "group": "JavaScriptTypeScript"
+  },
+  {
+    "ID": "274",
+    "created": "2023-09-26 12:19:00",
+    "name": "Criando Objetos e Classes em JavaScript",
+    "group": "JavaScriptTypeScript"
+  },
+  {
+    "ID": "275",
+    "created": "2023-09-26 12:24:00",
+    "name": "Arrays e Estruturas de Repetição em JavaScript",
+    "group": "JavaScriptTypeScript"
+  },
+  {
+    "ID": "276",
+    "created": "2023-09-26 12:33:00",
+    "name": "Importação e Exportação com JavaScript",
+    "group": "JavaScriptTypeScript"
+  },
+  {
+    "ID": "277",
+    "created": "2023-09-26 14:10:00",
+    "name": "Deixando suas Páginas Web Dinâmicas com JavaScript",
+    "group": "JavaScriptTypeScript"
+  },
+  {
+    "ID": "278",
+    "created": "2023-09-26 14:50:00",
+    "name": "Aprendendo Variáveis, Escopo e Tipos de dados no JavaScript",
+    "group": "JavaScriptTypeScript"
+  },
+  {
+    "ID": "279",
+    "created": "2023-09-26 14:55:00",
+    "name": "Orientação a Protótipo com JavaScript",
+    "group": "JavaScriptTypeScript"
+  },
+  {
+    "ID": "280",
+    "created": "2023-09-26 14:59:00",
+    "name": "Funções e Manipulação de Listas com JavaScript",
+    "group": "JavaScriptTypeScript"
+  },
+  {
+    "ID": "281",
+    "created": "2023-09-27 09:12:00",
+    "name": "Promises e Assincronismo com JavaScript",
+    "group": "JavaScriptTypeScript"
+  },
+  {
+    "ID": "282",
+    "created": "2023-09-27 09:12:00",
+    "name": "Avançando no JavaScript com Assíncronismo",
+    "group": "JavaScriptTypeScript"
+  },
+  {
+    "ID": "283",
+    "created": "2023-09-27 10:07:00",
+    "name": "Criando um Jogo do Detona Ralph com JavaScript",
+    "group": "JavaScriptTypeScript"
+  },
+  {
+    "ID": "284",
+    "created": "2023-09-27 10:22:00",
+    "name": "Criando um Jogo da memória com Emojis Utilizando Javascript",
+    "group": "JavaScriptTypeScript"
+  },
+  {
+    "ID": "285",
+    "created": "2023-09-27 10:30:00",
+    "name": "Construindo um Simulador de Piano com JavaScript e CSS",
+    "group": "JavaScriptTypeScript"
+  },
+  {
+    "ID": "286",
+    "created": "2022-07-24 05:57:00",
+    "name": "Metodologias Ágeis e Ciclo de Desenvolvimento de Software",
+    "group": "Metodologias"
+  },
+  {
+    "ID": "287",
+    "created": "2023-08-24 16:55:00",
+    "name": "Trabalhando em Equipes Ágeis",
+    "group": "Metodologias"
+  },
+  {
+    "ID": "288",
+    "created": "2023-09-18 10:55:00",
+    "name": "Projetos ágeis com SCRUM",
+    "group": "Metodologias"
+  },
+  {
+    "ID": "289",
+    "created": "2023-09-29 15:52:00",
+    "name": "Princípios de Desenvolvimento Ágil e Colaborativo",
+    "group": "Metodologias"
+  },
+  {
+    "ID": "290",
+    "created": "2023-12-18 19:46:00",
+    "name": "Princípios de Agilidade e Desenvolvimento Colaborativo",
+    "group": "Metodologias"
+  },
+  {
+    "ID": "291",
+    "created": "2024-07-21 09:39:00",
+    "name": "Soft Skills na Era Ágil: Conectando Pessoas e Oportunidades",
+    "group": "Metodologias"
+  },
+  {
+    "ID": "292",
+    "created": "2024-11-18 12:13:00",
+    "name": "Desenhando uma Sprint na Prática, do Épico ao Entregável",
+    "group": "Metodologias"
+  },
+  {
+    "ID": "293",
+    "created": "2024-11-18 12:13:00",
+    "name": "Metodologia Ágil",
+    "group": "Metodologias"
+  },
+  {
+    "ID": "294",
+    "created": "2023-08-27 14:16:00",
+    "name": "Instalando e Configurando o Android Studio",
+    "group": "Mobile"
+  },
+  {
+    "ID": "295",
+    "created": "2023-08-27 16:18:00",
+    "name": "Visão Geral do Mercado de Desenvolvimento Mobile",
+    "group": "Mobile"
+  },
+  {
+    "ID": "296",
+    "created": "2023-08-27 19:22:00",
+    "name": "Entendendo a Estrutura e Depurando Apps Android",
+    "group": "Mobile"
+  },
+  {
+    "ID": "297",
+    "created": "2023-08-28 05:40:00",
+    "name": "Princípios de Interface de Usuário e Layouts Android",
+    "group": "Mobile"
+  },
+  {
+    "ID": "298",
+    "created": "2023-08-28 06:19:00",
+    "name": "Manipulando Entradas do Usuário em Apps Android",
+    "group": "Mobile"
+  },
+  {
+    "ID": "299",
+    "created": "2023-08-28 13:59:00",
+    "name": "Fundamentos de Multiscreen em Apps Android",
+    "group": "Mobile"
+  },
+  {
+    "ID": "300",
+    "created": "2023-08-30 14:51:00",
+    "name": "Visão Geral Sobre o Android Jetpack",
+    "group": "Mobile"
+  },
+  {
+    "ID": "301",
+    "created": "2023-08-30 14:57:00",
+    "name": "Explorando Componentes do Material Design em Apps Android",
+    "group": "Mobile"
+  },
+  {
+    "ID": "302",
+    "created": "2023-08-30 19:18:00",
+    "name": "Gerenciando o Fluxo de Navegação de Apps Android",
+    "group": "Mobile"
+  },
+  {
+    "ID": "303",
+    "created": "2023-08-30 20:25:00",
+    "name": "Ciclo de Vida Android ViewModel, LiveData e Coroutines",
+    "group": "Mobile"
+  },
+  {
+    "ID": "304",
+    "created": "2023-08-30 20:34:00",
+    "name": "Injeção de Dependências no Android com Hilt",
+    "group": "Mobile"
+  },
+  {
+    "ID": "305",
+    "created": "2023-08-30 21:19:00",
+    "name": "Simplificando a Persistência de Dados no Android com Room",
+    "group": "Mobile"
+  },
+  {
+    "ID": "306",
+    "created": "2023-08-30 21:29:00",
+    "name": "Interfaces de Usuário Dinâmicas no Android com Jetpack Compose",
+    "group": "Mobile"
+  },
+  {
+    "ID": "307",
+    "created": "2023-08-31 07:10:00",
+    "name": "Programação em Segundo Plano no Android com WorkManager",
+    "group": "Mobile"
+  },
+  {
+    "ID": "308",
+    "created": "2023-08-31 17:32:00",
+    "name": "Ganhando Produtividade com o Android Jetpack",
+    "group": "Mobile"
+  },
+  {
+    "ID": "309",
+    "created": "2022-07-24 05:50:00",
+    "name": "Introdução a Testes de Software",
+    "group": "QA"
+  },
+  {
+    "ID": "310",
+    "created": "2022-07-24 06:06:00",
+    "name": "Fundamentos de Qualidade de Software",
+    "group": "QA"
+  },
+  {
+    "ID": "311",
+    "created": "2022-07-24 23:54:00",
+    "name": "Desenvolvimento de Testes Unitários para Validar uma API REST de Gerenciamento Estoques de Cerveja",
+    "group": "QA"
+  },
+  {
+    "ID": "312",
+    "created": "2023-08-21 14:44:00",
+    "name": "Criando Testes Unitários com IA Generativa",
+    "group": "QA"
+  },
+  {
+    "ID": "313",
+    "created": "2023-10-02 23:23:00",
+    "name": "Testes Unitários com C#",
+    "group": "QA"
+  },
+  {
+    "ID": "314",
+    "created": "2023-10-03 00:21:00",
+    "name": "Implementando Validações de Testes Unitários com C#",
+    "group": "QA"
+  },
+  {
+    "ID": "315",
+    "created": "2023-10-03 21:06:00",
+    "name": "Configuração da Suíte de Testes e Aplicando Testes Integrados em .NET",
+    "group": "QA"
+  },
+  {
+    "ID": "316",
+    "created": "2023-10-05 21:43:00",
+    "name": "Trabalhando com Desenvolvimento Orientado a Testes",
+    "group": "QA"
+  },
+  {
+    "ID": "317",
+    "created": "2023-10-05 21:43:00",
+    "name": "Blindando Seu Código com TDD e Testes Unitários Usando .NET Core",
+    "group": "QA"
+  },
+  {
+    "ID": "318",
+    "created": "2023-10-06 07:04:00",
+    "name": "Introdução ao Mercado de Qualidade de Software",
+    "group": "QA"
+  },
+  {
+    "ID": "319",
+    "created": "2023-10-06 15:43:00",
+    "name": "O Dia a Dia de um QA: A Prática de Testes Manuais Funcionais",
+    "group": "QA"
+  },
+  {
+    "ID": "320",
+    "created": "2023-10-06 15:55:00",
+    "name": "Fundamentos de Automação de Testes",
+    "group": "QA"
+  },
+  {
+    "ID": "321",
+    "created": "2023-10-06 16:07:00",
+    "name": "Introdução à Qualidade de Software",
+    "group": "QA"
+  },
+  {
+    "ID": "322",
+    "created": "2024-11-14 17:05:00",
+    "name": "Desenvolvendo Testes Utilizando Mockito",
+    "group": "QA"
+  },
+  {
+    "ID": "323",
+    "created": "2022-04-17 13:43:00",
+    "name": "Primeiros passos para desenvolvimento web",
+    "group": "Web"
+  },
+  {
+    "ID": "324",
+    "created": "2022-04-17 14:07:00",
+    "name": "Introdução a Criação de Websites com HTML5 e CSS3",
+    "group": "Web"
+  },
+  {
+    "ID": "325",
+    "created": "2022-04-22 16:11:00",
+    "name": "Construindo páginas para internet com Bootstrap",
+    "group": "Web"
+  },
+  {
+    "ID": "326",
+    "created": "2022-04-30 00:04:00",
+    "name": "Introdução ao ReactJS",
+    "group": "Web"
+  },
+  {
+    "ID": "327",
+    "created": "2022-04-30 22:09:00",
+    "name": "Desenvolvimento de aplicações para internet com ReactJS",
+    "group": "Web"
+  },
+  {
+    "ID": "328",
+    "created": "2022-04-30 23:52:00",
+    "name": "Trabalhando com Componentes em React",
+    "group": "Web"
+  },
+  {
+    "ID": "329",
+    "created": "2022-05-04 05:20:00",
+    "name": "Introdução a Redux com ReactJS",
+    "group": "Web"
+  },
+  {
+    "ID": "330",
+    "created": "2022-05-06 00:14:00",
+    "name": "Trabalhando com States & Effects no ReactJs",
+    "group": "Web"
+  },
+  {
+    "ID": "331",
+    "created": "2022-05-09 11:09:00",
+    "name": "Desenvolvendo uma Progressive Web Application com React para Mapear os Dados do COVID19 Pelo Mundo",
+    "group": "Web"
+  },
+  {
+    "ID": "332",
+    "created": "2022-06-07 16:28:00",
+    "name": "Introdução aos React Hooks",
+    "group": "Web"
+  },
+  {
+    "ID": "333",
+    "created": "2022-06-17 01:53:00",
+    "name": "Práticas avançadas em projetos com ReactJS",
+    "group": "Web"
+  },
+  {
+    "ID": "334",
+    "created": "2022-06-20 04:02:00",
+    "name": "Criando um Front-end Totalmente Componentizado na Prática com ReactJS",
+    "group": "Web"
+  },
+  {
+    "ID": "335",
+    "created": "2022-06-20 15:46:00",
+    "name": "Módulo II - HTML/CSS3",
+    "group": "Web"
+  },
+  {
+    "ID": "336",
+    "created": "2022-06-20 15:46:00",
+    "name": "Desenvolvendo um Menu Hamburguer e Morphing Menu com CSS Transitions",
+    "group": "Web"
+  },
+  {
+    "ID": "337",
+    "created": "2023-09-25 12:14:00",
+    "name": "Introdução ao HTML na Prática",
+    "group": "Web"
+  },
+  {
+    "ID": "338",
+    "created": "2023-09-25 13:11:00",
+    "name": "Trabalhando com Formulários  em HTML",
+    "group": "Web"
+  },
+  {
+    "ID": "339",
+    "created": "2023-09-25 13:18:00",
+    "name": "Estruturando seu HTML + Formatações",
+    "group": "Web"
+  },
+  {
+    "ID": "340",
+    "created": "2023-09-25 13:24:00",
+    "name": "Criando sua Primeira Landing Page com HTML e CSS",
+    "group": "Web"
+  },
+  {
+    "ID": "341",
+    "created": "2023-09-25 13:34:00",
+    "name": "Estilizações Básicas com CSS",
+    "group": "Web"
+  },
+  {
+    "ID": "342",
+    "created": "2023-09-25 13:57:00",
+    "name": "Fundamentos do CSS",
+    "group": "Web"
+  },
+  {
+    "ID": "343",
+    "created": "2023-09-25 13:57:00",
+    "name": "Criando suas Primeiras Páginas com HTML e CSS",
+    "group": "Web"
+  }
+]

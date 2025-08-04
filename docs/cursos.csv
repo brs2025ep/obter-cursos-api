@@ -1,0 +1,344 @@
+ID,created,name,group
+1,2025-07-29 11:14:00,Introdução ao desenvolvimento de API,API
+2,2025-08-01 17:55:00,Desenvolvimento de APIs,API
+3,2025-08-01 17:59:00,Boas Práticas Para APIs RESTful,API
+4,2023-10-01 02:55:00,Introdução as APIs com C#,API
+5,2023-10-06 16:07:00,Testes de API: Dos Manuais aos Automatizados,API
+6,2024-11-16 15:23:00,Desenvolvendo APIs e Microsserviços na Claro,API
+7,2025-05-06 18:55:00,Introdução a Computação em Nuvem,Cloud
+8,2025-05-06 22:07:00,Microsoft Azure - Localizando Serviços por Categoria,Cloud
+9,2025-05-10 15:53:00,Benefícios da Computação em Nuvem,Cloud
+10,2025-05-10 16:16:00,Criando máquinas Virtuais na Azure,Cloud
+11,2025-05-10 16:27:00,Tipos de Serviço de Nuvem,Cloud
+12,2025-05-10 18:16:00,Componentes de Arquitetura do Azure,Cloud
+13,2025-05-10 19:04:00,Construindo Arquiteturas no Azure,Cloud
+14,2025-05-17 17:46:00,Computação e Rede na Azure,Cloud
+15,2025-05-17 18:27:00,Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure,Cloud
+16,2025-05-17 18:30:00,"Identidade, Acesso e Segurança",Cloud
+17,2025-05-17 18:30:00,Trabalhando com Ambiente Cloud na Azure,Cloud
+18,2025-05-17 23:18:00,Trabalhando com Nuvem Híbrida com Azure Red Hat OpenShift (ARO),Cloud
+19,2025-05-17 23:21:00,Inteligência de Documentos de IA do Azure,Cloud
+20,2025-05-17 23:24:00,Trabalhando com Serviços Azure OpenAI,Cloud
+21,2025-05-17 23:50:00,Análise de Sentimentos com Language Studio no Azure AI,Cloud
+22,2025-05-18 00:33:00,Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados,Cloud
+23,2025-05-18 00:34:00,Serviços Cloud de Inteligência Artificial,Cloud
+24,2025-05-18 00:37:00,Introdução ao Bootcamp Microsoft 50 Anos: Computação em Nuvem com Azure,Cloud
+25,2025-05-18 00:39:00,Como a Computação em Nuvem Funciona,Cloud
+26,2025-05-18 00:49:00,Fundamentos da Plataforma de Aplicações no Azure,Cloud
+27,2025-05-18 00:51:00,Criando uma Conta Microsoft e Assinatura Azure para Estudos,Cloud
+28,2025-05-18 00:57:00,Construindo Soluções Inteligentes com IA e Azure Cloud,Cloud
+29,2025-05-18 00:57:00,Fundamentos da Computação em Nuvem com Azure,Cloud
+30,2025-05-18 00:57:00,Microsoft 50 Anos - Computação em Nuvem com Azure,Cloud
+31,2025-06-03 20:51:00,Armazenamento de Dados com Docker,Cloud
+32,2025-06-03 20:53:00,Definição e Criação de um Docker File,Cloud
+33,2025-06-03 20:54:00,Trabalhando com Docker Compose,Cloud
+34,2025-06-03 21:33:00,Criando um Container de uma Aplicação WEB,Cloud
+35,2025-06-03 21:36:00,"Processamento, Logs e Rede com Docker",Cloud
+36,2023-05-29 11:54:00,Monitoramento e Análise na AWS,Cloud
+37,2023-05-29 12:25:00,Segurança na Nuvem com AWS,Cloud
+38,2023-05-29 12:26:00,AWS Official Content - Introdução à Amazon Web Services (AWS),Cloud
+39,2023-05-29 12:30:00,Introdução ao Conceito de Cloud,Cloud
+40,2023-05-29 12:51:00,Infraestrutura Global AWS,Cloud
+41,2023-05-29 13:05:00,Preços e Planos de Suporte na AWS,Cloud
+42,2023-05-29 13:07:00,AWS Official Content - Introdução à Computação em Nuvem com AWS,Cloud
+43,2023-08-23 06:39:00,"AWS Official Content - Segurança, Monitoramento e Suporte na AWS",Cloud
+44,2023-08-23 06:39:00,Fundamentos da Cloud Computing com AWS,Cloud
+45,2023-09-02 09:40:00,Descubra a Nuvem,Cloud
+46,2023-09-02 11:04:00,Conhecendo os Serviços da AWS,Cloud
+47,2023-09-02 11:07:00,Talento Cloud PRO,Cloud
+48,2023-09-02 11:08:00,Primeiros Passos com a Nuvem AWS | Nexa e AWS,Cloud
+49,2023-09-02 13:06:00,Descubra a Nuvem AWS - Nexa Resources,Cloud
+50,2023-09-02 15:54:00,Criando sua Conta na AWS,Cloud
+51,2023-09-02 15:56:00,Fundamentos de Computação em Nuvem na AWS,Cloud
+52,2023-09-02 16:02:00,Descubra a Nuvem AWS – LocalizaLabs,Cloud
+53,2023-09-18 10:04:00,Introdução a orquestração de contêineres com Docker,Cloud
+54,2023-10-01 03:09:00,Conhecendo e Instalando o Docker,Cloud
+55,2023-10-02 09:48:00,Primeiros Passos com o Docker,Cloud
+56,2024-11-16 15:23:00,O Mundo Devops na Claro,Cloud
+57,2025-06-03 22:31:00,Introdução a Kubernetes e Orquestração de Contêineres.,Cloud
+58,2025-06-03 22:31:00,Criando Contêineres com Docker,Cloud
+59,2025-06-03 22:38:00,Computação em AWS,Cloud
+60,2025-08-01 23:07:00,Ambiente de Desenvolvimento Kubernetes,Cloud
+61,2025-08-02 09:52:00,Conceitos Básicos Sobre Pods em Kubernetes,Cloud
+62,2025-08-02 14:34:00,Criando um Deploy de uma Aplicação,Cloud
+63,2025-08-02 14:34:00,Processos Devops,Cloud
+64,2022-04-10 15:44:00,Pensamento Computacional,Computacao
+65,2022-07-24 06:14:00,Principais Protocolos de Comunicação da Internet,Computacao
+66,2023-09-28 15:34:00,Introdução Ao Mundo Dos Objetos,Computacao
+67,2023-09-28 15:38:00,O Que São Classes e Objetos,Computacao
+68,2023-09-28 15:40:00,Estrutura de Dados JSON,Computacao
+69,2023-09-18 13:28:00,Redes TCP/IP e a Internet,Computacao
+70,2023-09-25 12:09:00,Entendendo Comunicação Client x Server,Computacao
+71,2023-09-28 18:27:00,Estruturas de Dados e Objetos,Computacao
+72,2025-01-06 21:27:00,Explorando Queries com SQL,DBA
+73,2025-01-06 21:31:00,Criando Queries com Funções e Cláusulas de Agrupamentos,DBA
+74,2025-01-09 13:47:00,Agrupando Registros e Tabelas com Join Statement,DBA
+75,2025-05-06 15:44:00,Integração com Banco de Dados,DBA
+76,2025-05-10 16:37:00,Configurando uma instância de Banco de Dados na Azure,DBA
+77,2022-06-20 04:50:00,MySQL - Trabalhando com suas Primeiras Tabelas,DBA
+78,2022-06-20 05:06:00,MySQL - Consultas com Join,DBA
+79,2022-07-21 10:08:00,Trabalhando com Banco de Dados utilizando JDBC e JPA,DBA
+80,2023-08-15 19:20:00,Introdução a Banco de Dados Relacionais (SQL),DBA
+81,2023-08-20 23:25:00,AWS Official Content - Armazenamento e Banco de Dados na AWS,DBA
+82,2023-08-21 13:50:00,Introdução a Banco de Dados NoSQL,DBA
+83,2023-08-21 13:50:00,Bancos de Dados SQL e NoSQL Para Devs,DBA
+84,2023-09-30 19:41:00,Introdução Banco de Dados,DBA
+85,2023-09-30 20:00:00,SQL SERVER - Dominando Tabelas e Tipos de Dados,DBA
+86,2023-10-01 00:47:00,SQL SERVER - Manipulando Dados,DBA
+87,2023-10-01 03:03:00,Montando Consultas Relacionais no SQL Server,DBA
+88,2024-11-14 16:53:00,Introdução ao MongoDB e Bancos de Dados NoSQL,DBA
+89,2024-11-14 16:53:00,Banco de Dados SQL e NoSQL Para Desenvolvedores Back-end,DBA
+90,2024-11-18 11:23:00,Introdução a Banco de Dados,DBA
+91,2024-11-18 12:10:00,Sistemas de Gerenciamento de Banco de Dados,DBA
+92,2024-11-19 08:24:00,Como Escrever Consultas Otimizadas no SQL,DBA
+93,2024-11-21 10:17:00,Modelagem de Dados para Banco de Dados,DBA
+94,2024-11-21 11:39:00,Arquitetura de Banco de Dados,DBA
+95,2024-11-21 11:39:00,Introdução a Banco de Dados Relacionais,DBA
+96,2024-11-21 22:01:00,Fundamentos de Modelagem e Projeto de Banco de Dados,DBA
+97,2024-11-22 08:04:00,Modelo de Entidade Relacionamento com Banco de Dados,DBA
+98,2024-11-23 10:53:00,Modelo Relacionamento de Entidade Aprimorado com Banco de Dados,DBA
+99,2024-11-24 22:26:00,Construindo um Esquema Conceitual para Banco De dados,DBA
+100,2024-12-03 11:18:00,Modelo Relacional e Mapeamento Relacional com Banco de Dados,DBA
+101,2024-12-03 11:18:00,Sistemas Relacionais em Banco de Dados,DBA
+102,2025-02-05 17:26:00,Princípios de Desenvolvimento De Aplicações,Fundamentos e Boas Práticas de Desenvolvimento de Software
+103,2023-05-29 11:36:00,Introdução ao Desenvolvimento Moderno de Software,Fundamentos e Boas Práticas de Desenvolvimento de Software
+104,2023-08-20 14:55:00,Princípios Desenvolvimento de Software,Fundamentos e Boas Práticas de Desenvolvimento de Software
+105,2023-08-21 14:21:00,"Desmistificando Microsserviços, BFF e DDD",Fundamentos e Boas Práticas de Desenvolvimento de Software
+106,2023-09-13 15:48:00,Fundamentos de Arquitetura de Sistemas,Fundamentos e Boas Práticas de Desenvolvimento de Software
+107,2024-04-26 11:07:00,Princípios de Desenvolvimento de Software Colaborativo,Fundamentos e Boas Práticas de Desenvolvimento de Software
+108,2025-08-01 18:03:00,Introdução a Clean Code,Fundamentos e Boas Práticas de Desenvolvimento de Software
+109,2025-08-01 18:13:00,Boas Práticas de Desenvolvimento de Software,Fundamentos e Boas Práticas de Desenvolvimento de Software
+110,2022-04-15 01:12:00,Introdução ao Git e ao GitHub,Git
+111,2023-08-08 16:52:00,Versionamento de Código com Git e GitHub,Git
+112,2025-05-17 22:43:00,Conceitos Fundamentais de IA,IA
+113,2025-05-17 23:17:00,Conceitos de Processamento de Linguagem Natural,IA
+114,2025-05-18 00:15:00,Explorando os Recursos de IA Generativa com Copilot e OpenAI,IA
+115,2025-05-18 01:25:00,Introdução ao Bootcamp Microsoft 50 Anos: Prompts Inteligentes,IA
+116,2025-05-20 17:24:00,Introdução à Engenharia de Prompts,IA
+117,2025-05-21 16:26:00,Técnicas de Engenharia de Prompt,IA
+118,2025-05-21 16:34:00,Escrevendo Prompts Eficazes,IA
+119,2025-05-21 18:13:00,Criando um Podcast com IAs Generativas,IA
+120,2025-05-21 18:17:00,Fundamentos da Engenharia de Prompts,IA
+121,2022-05-27 03:07:00,Introdução à Programação e Pensamento Computacional,IA
+122,2025-05-21 18:17:00,Microsoft 50 Anos - Prompts Inteligentes,IA
+123,2023-08-20 23:54:00,Programação Assistida por IA com Amazon CodeWhisperer,IA
+124,2023-08-22 22:34:00,Explorando IA Generativa com Amazon CodeWhisperer,IA
+125,2024-11-16 15:23:00,Criando Aplicações de IA com Agentes Autônomos,IA
+126,2024-11-17 06:05:00,Coding The Future CAIXA - Introdução a IA Generativa com Microsoft Copilot,IA
+127,2024-11-17 06:34:00,Introdução à Inteligência Artificial,IA
+128,2024-11-17 07:39:00,Aplicações e Impacto da IA no Mundo Atual,IA
+129,2024-11-17 08:01:00,Live de Lançamento: Como a CAIXA Está utilizando IA para transformar o Mercado,IA
+130,2024-11-17 08:01:00,Fundamentos de Inteligência Artificial (IA),IA
+131,2024-11-17 11:21:00,Aplicações Práticas da Inteligência Artificial,IA
+132,2024-11-17 12:35:00,Fundamentos da IA Generativa,IA
+133,2024-11-17 13:37:00,O que são IAs Generativas,IA
+134,2024-11-18 07:35:00,Algoritmos e Aprendizado de Máquina,IA
+135,2024-11-18 08:52:00,Processamento de Linguagem Natural,IA
+136,2024-11-18 09:10:00,Visão Computacional,IA
+137,2025-07-28 21:37:00,Bases de Prompt Engineering para o GitHub Copilot,IA
+138,2025-07-29 08:38:00,Criando um Ebook com ChatGPT & MidJourney,IA
+139,2025-07-29 10:33:00,Introdução a Engenharia de Prompts,IA
+140,2023-03-30 23:51:00,Eletrônica Básica para Prototipação com Microcontroladores,IOT
+141,2023-09-12 21:11:00,Modelos de IoT,IOT
+142,2023-09-12 21:14:00,Introdução para IoT em um mundo conectado,IOT
+143,2023-09-13 06:19:00,Aplicações de IoT na atualidade,IOT
+144,2023-09-13 06:19:00,Materiais Complementares - Introdução à Internet das Coisas (IoT) e suas Aplicações,IOT
+145,2023-09-13 06:23:00,Cidades Inteligentes,IOT
+146,2023-09-13 06:23:00,Introdução à Internet das Coisas (IoT) e suas Aplicações,IOT
+147,2023-09-13 12:00:00,Protocolos de Comunicação para IoT,IOT
+148,2023-09-17 18:07:00,Materiais Complementares - Protocolos de Comunicação e Segurança para IoT,IOT
+149,2023-09-18 13:05:00,Plataformas de Prototipação para Internet das Coisas,IOT
+150,2023-09-18 13:06:00,Materiais Complementares - Princípios de Eletrônica para IoT,IOT
+151,2023-09-18 13:22:00,Segurança de Redes para IoT,IOT
+152,2023-09-18 13:28:00,Protocolos de Comunicação e Segurança para IoT,IOT
+153,2023-09-18 13:29:00,Avalie a Formação IoT Specialist,IOT
+154,2023-09-18 13:29:00,Materiais Complementares - Computação Móvel Aplicada à IoT,IOT
+155,2023-09-19 16:37:00,Materiais Complementares - Inteligência Artificial aplicada para Sistemas de IoT,IOT
+156,2023-09-20 14:37:00,Sistemas Embarcados Críticos,IOT
+157,2023-09-20 20:24:00,Princípios de Eletrônica para IoT,IOT
+158,2023-09-20 20:51:00,Tipos de Sensores Aplicados para IoT,IOT
+159,2023-09-20 20:53:00,Materiais Complementares - Sensores Inteligentes para IoT,IOT
+160,2023-09-21 16:48:00,Algoritmos para Sensoriamento em IoT,IOT
+161,2025-02-03 22:23:00,Introdução ao Java Cloud Native com o Bradesco,JavaKotlin
+162,2025-02-05 17:26:00,Live de Lançamento: Bradesco - Java Cloud Native,JavaKotlin
+163,2025-02-05 17:28:00,Java e a Arte da Abstração com Classes e Encapsulamento,JavaKotlin
+164,2025-02-05 17:43:00,Herança e Polimorfismo em Java,JavaKotlin
+165,2025-02-05 17:56:00,Dominando Interfaces e Lambda em Java,JavaKotlin
+166,2025-05-06 11:19:00,Criando um Jogo do Sudoku em Java,JavaKotlin
+167,2025-05-06 13:38:00,Programação Orientada a Objetos,JavaKotlin
+168,2025-05-06 14:48:00,JDBC: Explorando Persistência de Dados com Java,JavaKotlin
+169,2025-05-06 15:44:00,Criando seu Board de Tarefas com Java,JavaKotlin
+170,2025-05-18 00:34:00,Bradesco - Java Cloud Native,JavaKotlin
+171,2022-05-09 21:12:00,"Variáveis, Tipos de Dados e Operadores Matemáticos em Java",JavaKotlin
+172,2022-05-10 06:40:00,Dominando IDEs Java,JavaKotlin
+173,2022-05-10 08:54:00,Introdução ao Ecossistema e Documentação Java,JavaKotlin
+174,2022-05-10 09:18:00,Lógica Condicional e Controle de Fluxos em Java,JavaKotlin
+175,2022-05-14 06:36:00,Entendendo Métodos Java,JavaKotlin
+176,2022-05-16 08:37:00,Estruturas de Repetição e Arrays em Java,JavaKotlin
+177,2022-05-17 22:27:00,Debugging Java,JavaKotlin
+178,2022-05-19 03:01:00,Introdução ao framework Spring Boot,JavaKotlin
+179,2022-05-22 06:13:00,Tratamento de Exceções em Java,JavaKotlin
+180,2022-05-22 07:39:00,Simplificando Projetos Java com o Spring Boot,JavaKotlin
+181,2022-05-22 13:08:00,Imersão no Spring Framework com Spring Boot,JavaKotlin
+182,2022-05-23 23:15:00,Conhecendo Spring Data JPA na prática com Java,JavaKotlin
+183,2022-06-20 18:19:00,Módulo VI - JAVA,JavaKotlin
+184,2022-06-20 21:06:00,Estruturas de Dados em Java: Principais Implementações,JavaKotlin
+185,2022-06-23 07:29:00,Módulo 0 - Prepare-se para a Jornada,JavaKotlin
+186,2022-06-23 14:21:00,Módulo IV - JAVA,JavaKotlin
+187,2022-06-23 14:21:00,Criando um Banco Digital com Java e Orientação a Objetos,JavaKotlin
+188,2022-07-21 09:44:00,Trabalhando com Collections Java,JavaKotlin
+189,2022-07-21 10:14:00,JPA com Hibernate,JavaKotlin
+190,2022-07-24 05:19:00,Testes Unitários Com JUnit,JavaKotlin
+191,2022-07-24 05:43:00,Adicionando Segurança a uma API REST com Spring Security,JavaKotlin
+192,2022-07-24 23:57:00,Design Patterns com Java: Dos Clássicos (GoF) ao Spring Framework,JavaKotlin
+193,2023-08-15 19:13:00,Fundamentos da Programação Orientada a Objetos com Java,JavaKotlin
+194,2023-08-15 21:42:00,Pilares da Programação Orientada a Objetos em Java,JavaKotlin
+195,2023-08-16 02:19:00,Criando uma API REST Documentada com Spring Web e Swagger,JavaKotlin
+196,2023-08-21 10:17:00,Ganhando Produtividade com Stream API,JavaKotlin
+197,2023-08-22 21:56:00,Orientação a Objetos e APIs Java,JavaKotlin
+198,2023-08-22 22:34:00,Gerenciamento de Dependências e Build em Java com Maven,JavaKotlin
+199,2023-08-22 22:34:00,Ganhando Produtividade com Spring Boot,JavaKotlin
+200,2023-08-23 06:39:00,Desenvolvimento Java com Cloud AWS,JavaKotlin
+201,2023-08-23 07:12:00,Conhecendo o Kotlin e Sua Documentação Oficial,JavaKotlin
+202,2023-08-24 06:40:00,Introdução Prática à Linguagem de Programação Kotlin,JavaKotlin
+203,2023-08-24 07:56:00,Estruturas de Controle de Fluxo e Coleções em Kotlin,JavaKotlin
+204,2023-08-24 09:07:00,Orientação a Objetos e Tipos de Classes na Prática com Kotlin,JavaKotlin
+205,2023-08-25 04:18:00,O Poder das Funções em Kotlin,JavaKotlin
+206,2023-08-25 17:50:00,Tratamento de Exceções em Kotlin,JavaKotlin
+207,2023-08-25 17:58:00,Contextualizando o Desenvolvimento Web com Spring Boot 3,JavaKotlin
+208,2023-08-25 21:14:00,Criando uma Api Rest com Kotlin e Persistência de Dados,JavaKotlin
+209,2023-08-26 01:17:00,Documentando e Testando sua API Rest com Kotlin,JavaKotlin
+210,2023-08-26 01:17:00,Modernizando seu Backend com Kotlin e Spring Boot,JavaKotlin
+211,2023-08-27 01:34:00,Abstraindo Formações da DIO Usando Orientação a Objetos com Kotlin,JavaKotlin
+212,2023-08-27 01:34:00,Desmitificando Kotlin para Programadores Java,JavaKotlin
+213,2023-08-27 01:34:00,Conhecendo a Linguagem de Programação Kotlin,JavaKotlin
+214,2023-08-27 06:59:00,Explorando Padrões de Projetos Na Prática com Kotlin,JavaKotlin
+215,2023-08-27 13:11:00,"Arquitetura Orientada a Eventos com Java, Spring Boot e Kafka",JavaKotlin
+216,2023-08-27 13:11:00,Ganhando Produtividade com Java e Spring Boot,JavaKotlin
+217,2023-08-28 21:17:00,Noções Básicas de Rede em Apps Android com Kotlin,JavaKotlin
+218,2023-08-29 21:31:00,Armazenamento de Dados Essencial em Apps Android com Kotlin,JavaKotlin
+219,2023-08-30 10:27:00,Introdução ao Desenvolvimento Mobile com Kotlin,JavaKotlin
+220,2023-08-31 17:32:00,Criando um Aplicativo Kotlin para acompanhar a Copa,JavaKotlin
+221,2023-08-31 17:33:00,Santander Bootcamp 2023 -  Mobile Android com Kotlin,JavaKotlin
+222,2023-09-01 17:50:00,Code Update TQI - Backend com Kotlin e Java,JavaKotlin
+223,2023-09-13 16:07:00,Desenvolvimento básico em Java,JavaKotlin
+224,2023-09-17 14:05:00,Implementando Collections e Streams com Java,JavaKotlin
+225,2025-07-29 11:00:00,Estruturas de Controle em Java,JavaKotlin
+226,2025-07-29 11:40:00,Sintaxe Básica de Java,JavaKotlin
+227,2025-07-30 19:03:00,Praticando com Collections e Outras Classes Úteis do Java,JavaKotlin
+228,2025-07-30 19:03:00,Programação Orientada a Objetos e Estruturas de Dados com Java,JavaKotlin
+229,2025-08-01 08:45:00,Debugging e o Tratamento de Exceções em Java,JavaKotlin
+230,2025-08-01 08:58:00,Simplificando I/O de Arquivos e Diretórios com Java,JavaKotlin
+231,2025-08-01 09:03:00,Gerenciando Dependências com Maven e Gradle,JavaKotlin
+232,2025-08-01 09:03:00,"Gerenciando Exceções, IO e Dependências em Java",JavaKotlin
+233,2025-08-01 10:27:00,Coleções e Stream em Java,JavaKotlin
+234,2024-02-19 11:29:00,Preparando seu Ambiente de Desenvolvimento Kotlin com IntelliJ,JavaKotlin
+235,2024-02-19 11:29:00,Kotlin no Backend com Spring Boot 3,JavaKotlin
+236,2024-07-28 15:37:00,Introdução à Plataforma Java,JavaKotlin
+237,2024-07-28 15:42:00,Ambiente de Desenvolvimento Java,JavaKotlin
+238,2024-09-05 04:12:00,Introdução ao Ambiente Java e Projetos Colaborativos,JavaKotlin
+239,2024-11-13 09:38:00,Aprendendo a Sintaxe Java,JavaKotlin
+240,2024-11-13 14:31:00,Estruturas de Repetição em Java,JavaKotlin
+241,2024-11-13 14:36:00,Introdução e Estruturas Condicionais com Java,JavaKotlin
+242,2024-11-13 14:41:00,Java e Tratamento de Exceções,JavaKotlin
+243,2024-11-13 22:11:00,Sintaxe Básica com Java,JavaKotlin
+244,2024-11-14 16:42:00,Programação Orientada a Objetos com Java,JavaKotlin
+245,2024-11-14 16:42:00,Abstraindo um Bootcamp Usando Orientação a Objetos em Java,JavaKotlin
+246,2024-11-14 17:05:00,Testes e Gerenciamento de Dependências em Projetos Java,JavaKotlin
+247,2024-11-16 15:22:00,Ganhando Produtividade no Java com Spring Framework,JavaKotlin
+248,2024-11-16 15:22:00,"Publicando Sua API REST na Nuvem Usando Spring Boot 3, Java 17 e Railway",JavaKotlin
+249,2024-11-16 15:24:00,Arquiteturas Escaláveis com Java na AWS,JavaKotlin
+250,2024-11-16 15:29:00,Claro - Java com Spring Boot,JavaKotlin
+251,2025-07-19 12:19:00,Introdução a Experiência TONNIE - Java and AI in Europe,JavaKotlin
+252,2025-07-29 10:45:00,Introdução ao Java e seu Ambiente de Desenvolvimento,JavaKotlin
+253,2025-07-29 10:45:00,Princípios de Desenvolvimento De Aplicações Java,JavaKotlin
+254,2025-07-29 10:50:00,Fundamentos da Linguagem de Programação Java,JavaKotlin
+255,2025-08-01 18:02:00,Trabalhando com Design Patterns em Aplicações Java,JavaKotlin
+256,2025-08-01 18:08:00,SOLID e Clean Code em Java: Escrevendo Código de Alta Qualidade,JavaKotlin
+257,2025-08-01 18:13:00,Annotations em Java: Marcando o Seu Código de Maneira Inteligente,JavaKotlin
+258,2025-08-02 14:34:00,TONNIE - Java and AI in Europe,JavaKotlin
+259,2022-04-18 08:35:00,Mapas e Conjuntos com JavaScript,JavaScriptTypeScript
+260,2022-04-18 09:08:00,Debugging e Error Handling com JavaScript,JavaScriptTypeScript
+261,2022-04-18 09:30:00,Fundamentos de JavaScript Assíncrono,JavaScriptTypeScript
+262,2022-04-20 21:01:00,Manipulando a D.O.M. com JavaScript,JavaScriptTypeScript
+263,2022-04-22 22:54:00,"Map, Filter e Reduce",JavaScriptTypeScript
+264,2022-04-22 23:12:00,Orientação a Objetos com JavaScript,JavaScriptTypeScript
+265,2022-04-22 23:17:00,Resolvendo Desafios de Código em Javascript,JavaScriptTypeScript
+266,2022-05-27 05:46:00,Introdução ao JavaScript,JavaScriptTypeScript
+267,2022-05-27 09:55:00,Sintaxe Básica em JavaScript,JavaScriptTypeScript
+268,2022-05-29 03:35:00,Dominando Funções em JavaScript,JavaScriptTypeScript
+269,2022-05-29 03:49:00,Sintaxe e Operadores JavaScript,JavaScriptTypeScript
+270,2022-05-29 04:01:00,Variáveis e Tipos com JavaScript,JavaScriptTypeScript
+271,2022-06-15 14:21:00,Trabalhando com Módulos em JavaScript,JavaScriptTypeScript
+272,2023-09-25 14:02:00,Primeiros Passos Com JavaScript,JavaScriptTypeScript
+273,2023-09-26 12:15:00,Conhecendo Funções JavaScript,JavaScriptTypeScript
+274,2023-09-26 12:19:00,Criando Objetos e Classes em JavaScript,JavaScriptTypeScript
+275,2023-09-26 12:24:00,Arrays e Estruturas de Repetição em JavaScript,JavaScriptTypeScript
+276,2023-09-26 12:33:00,Importação e Exportação com JavaScript,JavaScriptTypeScript
+277,2023-09-26 14:10:00,Deixando suas Páginas Web Dinâmicas com JavaScript,JavaScriptTypeScript
+278,2023-09-26 14:50:00,"Aprendendo Variáveis, Escopo e Tipos de dados no JavaScript",JavaScriptTypeScript
+279,2023-09-26 14:55:00,Orientação a Protótipo com JavaScript,JavaScriptTypeScript
+280,2023-09-26 14:59:00,Funções e Manipulação de Listas com JavaScript,JavaScriptTypeScript
+281,2023-09-27 09:12:00,Promises e Assincronismo com JavaScript,JavaScriptTypeScript
+282,2023-09-27 09:12:00,Avançando no JavaScript com Assíncronismo,JavaScriptTypeScript
+283,2023-09-27 10:07:00,Criando um Jogo do Detona Ralph com JavaScript,JavaScriptTypeScript
+284,2023-09-27 10:22:00,Criando um Jogo da memória com Emojis Utilizando Javascript,JavaScriptTypeScript
+285,2023-09-27 10:30:00,Construindo um Simulador de Piano com JavaScript e CSS,JavaScriptTypeScript
+286,2022-07-24 05:57:00,Metodologias Ágeis e Ciclo de Desenvolvimento de Software,Metodologias
+287,2023-08-24 16:55:00,Trabalhando em Equipes Ágeis,Metodologias
+288,2023-09-18 10:55:00,Projetos ágeis com SCRUM,Metodologias
+289,2023-09-29 15:52:00,Princípios de Desenvolvimento Ágil e Colaborativo,Metodologias
+290,2023-12-18 19:46:00,Princípios de Agilidade e Desenvolvimento Colaborativo,Metodologias
+291,2024-07-21 09:39:00,Soft Skills na Era Ágil: Conectando Pessoas e Oportunidades,Metodologias
+292,2024-11-18 12:13:00,"Desenhando uma Sprint na Prática, do Épico ao Entregável",Metodologias
+293,2024-11-18 12:13:00,Metodologia Ágil,Metodologias
+294,2023-08-27 14:16:00,Instalando e Configurando o Android Studio,Mobile
+295,2023-08-27 16:18:00,Visão Geral do Mercado de Desenvolvimento Mobile,Mobile
+296,2023-08-27 19:22:00,Entendendo a Estrutura e Depurando Apps Android,Mobile
+297,2023-08-28 05:40:00,Princípios de Interface de Usuário e Layouts Android,Mobile
+298,2023-08-28 06:19:00,Manipulando Entradas do Usuário em Apps Android,Mobile
+299,2023-08-28 13:59:00,Fundamentos de Multiscreen em Apps Android,Mobile
+300,2023-08-30 14:51:00,Visão Geral Sobre o Android Jetpack,Mobile
+301,2023-08-30 14:57:00,Explorando Componentes do Material Design em Apps Android,Mobile
+302,2023-08-30 19:18:00,Gerenciando o Fluxo de Navegação de Apps Android,Mobile
+303,2023-08-30 20:25:00,"Ciclo de Vida Android ViewModel, LiveData e Coroutines",Mobile
+304,2023-08-30 20:34:00,Injeção de Dependências no Android com Hilt,Mobile
+305,2023-08-30 21:19:00,Simplificando a Persistência de Dados no Android com Room,Mobile
+306,2023-08-30 21:29:00,Interfaces de Usuário Dinâmicas no Android com Jetpack Compose,Mobile
+307,2023-08-31 07:10:00,Programação em Segundo Plano no Android com WorkManager,Mobile
+308,2023-08-31 17:32:00,Ganhando Produtividade com o Android Jetpack,Mobile
+309,2022-07-24 05:50:00,Introdução a Testes de Software,QA
+310,2022-07-24 06:06:00,Fundamentos de Qualidade de Software,QA
+311,2022-07-24 23:54:00,Desenvolvimento de Testes Unitários para Validar uma API REST de Gerenciamento Estoques de Cerveja,QA
+312,2023-08-21 14:44:00,Criando Testes Unitários com IA Generativa,QA
+313,2023-10-02 23:23:00,Testes Unitários com C#,QA
+314,2023-10-03 00:21:00,Implementando Validações de Testes Unitários com C#,QA
+315,2023-10-03 21:06:00,Configuração da Suíte de Testes e Aplicando Testes Integrados em .NET,QA
+316,2023-10-05 21:43:00,Trabalhando com Desenvolvimento Orientado a Testes,QA
+317,2023-10-05 21:43:00,Blindando Seu Código com TDD e Testes Unitários Usando .NET Core,QA
+318,2023-10-06 07:04:00,Introdução ao Mercado de Qualidade de Software,QA
+319,2023-10-06 15:43:00,O Dia a Dia de um QA: A Prática de Testes Manuais Funcionais,QA
+320,2023-10-06 15:55:00,Fundamentos de Automação de Testes,QA
+321,2023-10-06 16:07:00,Introdução à Qualidade de Software,QA
+322,2024-11-14 17:05:00,Desenvolvendo Testes Utilizando Mockito,QA
+323,2022-04-17 13:43:00,Primeiros passos para desenvolvimento web,Web
+324,2022-04-17 14:07:00,Introdução a Criação de Websites com HTML5 e CSS3,Web
+325,2022-04-22 16:11:00,Construindo páginas para internet com Bootstrap,Web
+326,2022-04-30 00:04:00,Introdução ao ReactJS,Web
+327,2022-04-30 22:09:00,Desenvolvimento de aplicações para internet com ReactJS,Web
+328,2022-04-30 23:52:00,Trabalhando com Componentes em React,Web
+329,2022-05-04 05:20:00,Introdução a Redux com ReactJS,Web
+330,2022-05-06 00:14:00,Trabalhando com States & Effects no ReactJs,Web
+331,2022-05-09 11:09:00,Desenvolvendo uma Progressive Web Application com React para Mapear os Dados do COVID19 Pelo Mundo,Web
+332,2022-06-07 16:28:00,Introdução aos React Hooks,Web
+333,2022-06-17 01:53:00,Práticas avançadas em projetos com ReactJS,Web
+334,2022-06-20 04:02:00,Criando um Front-end Totalmente Componentizado na Prática com ReactJS,Web
+335,2022-06-20 15:46:00,Módulo II - HTML/CSS3,Web
+336,2022-06-20 15:46:00,Desenvolvendo um Menu Hamburguer e Morphing Menu com CSS Transitions,Web
+337,2023-09-25 12:14:00,Introdução ao HTML na Prática,Web
+338,2023-09-25 13:11:00,Trabalhando com Formulários  em HTML,Web
+339,2023-09-25 13:18:00,Estruturando seu HTML + Formatações,Web
+340,2023-09-25 13:24:00,Criando sua Primeira Landing Page com HTML e CSS,Web
+341,2023-09-25 13:34:00,Estilizações Básicas com CSS,Web
+342,2023-09-25 13:57:00,Fundamentos do CSS,Web
+343,2023-09-25 13:57:00,Criando suas Primeiras Páginas com HTML e CSS,Web
